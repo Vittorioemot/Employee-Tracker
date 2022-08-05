@@ -16,7 +16,7 @@ const connection = mysql.createConnection({
 });
 
 connection.connect(err => {
-  if (err) throw err;
+  // if (err) throw err;
   console.log('connected as id ' + connection.threadId);
   afterConnection();
 });
@@ -214,7 +214,7 @@ addRole = () => {
       name: 'salary',
       message: "What is the salary of this role?",
       validate: addSalary => {
-        if (isNAN(addSalary)) {
+        if (addSalary) {
             return true;
         } else {
             console.log('Please enter a salary');
