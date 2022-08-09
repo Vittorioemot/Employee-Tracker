@@ -16,11 +16,11 @@ https://drive.google.com/file/d/18ZLJGu_q1dQBFEyKbX-3VwQsvtFyM6Hd/view
 
    ![Image Caption](https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/Employee%20Manager%20in%20terminal.png)
 
-    ![Image Caption](https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/Show%20employee.png)
+   ![Image Caption](https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/Show%20employee.png)
 
-    ![Image Caption](https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/What%20would%20you%20like%20to%20do.png)
+   ![Image Caption](https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/What%20would%20you%20like%20to%20do.png)
 
-    ![Image Caption](https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/view%20all%20departments.png)
+   ![Image Caption](https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/view%20all%20departments.png)
 
    
 
