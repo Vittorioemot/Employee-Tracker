@@ -16,7 +16,7 @@ https://drive.google.com/file/d/18ZLJGu_q1dQBFEyKbX-3VwQsvtFyM6Hd/view
 
 
 
-    ![Image Caption]("Employee-Tracker\Employee-Tracker\images\Employee Manager in terminal.png")
+    ![Image Caption]("https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/Employee%20Manager%20in%20terminal.png")
     ![Image Caption]("Employee-Tracker\Employee-Tracker\images\Show in terminal.png")
     ![Image Caption]("Employee-Tracker\Employee-Tracker\images\View all departments.png")
     ![Image Caption]("Employee-Tracker\Employee-Tracker\images\What would you like to do.png")
