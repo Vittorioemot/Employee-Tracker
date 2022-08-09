@@ -14,14 +14,17 @@ There is a video attached that will run through the features of the terminal app
 
 https://drive.google.com/file/d/18ZLJGu_q1dQBFEyKbX-3VwQsvtFyM6Hd/view
 
+   ![Image Caption](https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/Employee%20Manager%20in%20terminal.png)
 
+    ![Image Caption](https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/Show%20employee.png)
 
-    ![Image Caption]("https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/Employee%20Manager%20in%20terminal.png")
-    ![Image Caption]("Employee-Tracker\Employee-Tracker\images\Show in terminal.png")
-    ![Image Caption]("Employee-Tracker\Employee-Tracker\images\View all departments.png")
-    ![Image Caption]("Employee-Tracker\Employee-Tracker\images\What would you like to do.png")
+    ![Image Caption](https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/What%20would%20you%20like%20to%20do.png)
+
+    ![Image Caption](https://github.com/Vittorioemot/Employee-Tracker/blob/main/images/view%20all%20departments.png)
+
    
 
+  
 ## Author
 
 - **Vittorio Natoli**
